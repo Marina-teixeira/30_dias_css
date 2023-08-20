@@ -12,7 +12,7 @@
  + O projeto deve ser concluído até as 23:59;
 
 ## Dia 1 - Barra de progresso circular
-<img source ="/images/Desing-sem-nome.gif">
+<img source ="/Images/Desing-sem-nome.gif">
 
 ### O que eu aprendi e utilizei
 
