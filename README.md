@@ -12,7 +12,9 @@
  + O projeto deve ser concluído até as 23:59;
 
 ## Dia 1 - Barra de progresso circular
-<img source ="/Images/Desing-sem-nome.gif">
+
+![ezgif com-video-to-gif](https://github.com/Marina-teixeira/30_dias_css/assets/108299821/3b8a2088-5a07-4b94-b16d-276de4839bca)
+
 
 ### O que eu aprendi e utilizei
 
