@@ -1,5 +1,5 @@
 # 30 dias com CSS!
- Olá!Estou começando o desafio 30 dias de CSS para praticar e adiquirir conhecimentos.
+ Olá! Estou começando o desafio 30 dias de CSS para praticar e adiquirir conhecimentos.
  O desafio consiste em fazer um mini projeto por dia utilizando HTML e CSS durante 30 dias.
 
  Referências usadas: [CodingNepal](https://www.youtube.com/@CodingNepal)
