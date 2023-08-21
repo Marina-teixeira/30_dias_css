@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+.opcao1{
+    align-items: center;
+    animation: troca 2s linear infinite;
+    background: rgba(248, 80, 231, 0.692);
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+}
+
+@keyframes troca{
+    0%{
+        filter: hue-rotate(0);
+    }
+    100%{
+        filter: hue-rotate(360deg);
+    }
+}
