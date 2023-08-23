@@ -13,8 +13,9 @@
 
 ## Dia 1 - Barra de progresso circular
 
-![ezgif com-video-to-gif](https://github.com/Marina-teixeira/30_dias_css/assets/108299821/3b8a2088-5a07-4b94-b16d-276de4839bca)
-
+<p align="center">
+  <img width="500" heiht="600" src="./Imagens/Dia_1.gif">
+</p>
 
 ### O que eu aprendi e utilizei
 
@@ -22,3 +23,19 @@
 + CSS @keyframes
 + Transform
 + z-index
+
+## Dia 2 - Mudança de cor
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_2.gif">
+</p>
+
+## O que aprendi e utilizei
+
++ CSS Animation
++ CSS Filter - Hue rotate
++ CSS @keyframes
+
+
+
+
