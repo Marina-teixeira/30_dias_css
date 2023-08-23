@@ -30,12 +30,20 @@
   <img width="300" heiht="300" src="./Imagens/Dia_2.gif">
 </p>
 
-## O que aprendi e utilizei
+### O que aprendi e utilizei
 
 + CSS Animation
 + CSS Filter - Hue rotate
 + CSS @keyframes
 
+## Dia 3 - Botão com efeito
 
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_3.gif">
+</p>
 
+### O que aprendi e utilizei
 
++ Before
++ Hover
++ Transições
