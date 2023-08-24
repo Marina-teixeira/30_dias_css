@@ -47,3 +47,15 @@
 + Before
 + Hover
 + Transições
+
+## Dia 4 - Efeito texto brilhando
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_4.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animações CSS
++ Nth-of-type
++ Text-shadow
