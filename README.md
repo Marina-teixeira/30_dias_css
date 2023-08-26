@@ -70,3 +70,15 @@
 
 + Animações CSS
 + Transform
+
+## Dia 6 - texto esfumaçado
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/dia_6.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Filter blur
++ Rotate e translate
++ Transição e delay
