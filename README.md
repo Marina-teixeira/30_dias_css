@@ -59,3 +59,14 @@
 + Animações CSS
 + Nth-of-type
 + Text-shadow
+
+## Dia 5 - Efeito pulsar
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_5.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animações CSS
++ Transform
