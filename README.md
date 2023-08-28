@@ -82,3 +82,16 @@
 + Filter blur
 + Rotate e translate
 + Transição e delay
+
+## Dia 7 - Pendulo de Newton
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_7.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animação CSS
++ Before
++ Fist-child
++ Last-child
