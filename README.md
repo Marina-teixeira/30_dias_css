@@ -95,3 +95,15 @@
 + Before
 + Fist-child
 + Last-child
+
+## Dia 8 - Efeito máquina de escrever
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_8.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animação CSS
++ Overflow
++ White-space
