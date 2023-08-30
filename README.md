@@ -107,3 +107,15 @@
 + Animação CSS
 + Overflow
 + White-space
+
+## Dia 9 - Ícones com efeito
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_9.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ After/before
++ Animação CSS
++ Hover
