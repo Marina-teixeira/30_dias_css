@@ -133,7 +133,7 @@
 + Radial gradient
 + Transform translate
 
-  ## Ícone de mídia social em camadas
+## Dia 11 -Ícone de mídia social em camadas
 
 <p align="center">
   <img width="300" heiht="300" src="./Imagens/Dia_11.gif">
