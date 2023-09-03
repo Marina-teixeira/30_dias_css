@@ -132,3 +132,17 @@
 + Input:checked
 + Radial gradient
 + Transform translate
+
+  ## Ícone de mídia social em camadas
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_11.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Camadas
++ Hover
++ Nth-child
++ Transcições
++ Transform
