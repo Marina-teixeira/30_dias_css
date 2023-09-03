@@ -119,3 +119,16 @@
 + After/before
 + Animação CSS
 + Hover
+
+## Dia 10 - Checkbox de coração
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_10.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ After e before
++ Input:checked
++ Radial gradient
++ Transform translate
