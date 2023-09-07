@@ -159,3 +159,16 @@
 + Background-clip
 + Linear-gradient
 + Text fill color
+
+## Dia 13 - Menu com efeito hover
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_13.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ After e before
++ Hover
++ Transform scale
++ Transition
