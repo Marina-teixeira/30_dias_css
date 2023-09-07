@@ -146,3 +146,16 @@
 + Nth-child
 + Transcições
 + Transform
+
+## Dia 12 - Texto com gradiente animado
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_12.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animação CSS
++ Background-clip
++ Linear-gradient
++ Text fill color
