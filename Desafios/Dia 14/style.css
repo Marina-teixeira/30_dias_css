@@ -1,0 +1,104 @@
+:root {
+    --cor01: #f7fbfc;
+    --cor02: #d6e6f2;
+    --cor03: #b9d7ea;
+    --cor04: #769fcd;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--cor01);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+main {
+    font-size: 18px;
+    margin: 30px;
+}
+
+main h2 {
+    background-image: linear-gradient(to right, var(--cor02), var(cor01));
+    text-shadow: 2px 2px 2px var(--cor03);
+}
+
+footer {
+    background-color: var(--cor04);
+    bottom: 0;
+    color: var(--cor02);
+    font-size: 18px;
+    height: 8vh;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.loader {
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+span {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: var(--cor03);
+    border-radius: 4px;
+    animation: chase 2s linear infinite;
+}
+
+span:nth-child(1) {
+    animation-delay: 1.4s;
+}
+
+@keyframes chase {
+    0% {
+        top: 0;
+        left: 0;
+    }
+
+    12.5% {
+        top: 0;
+        left: 50%;
+    }
+
+    25% {
+        top: 0;
+        left: 50%;
+    }
+
+    37.5% {
+        top: 50%;
+        left: 50%;
+    }
+
+    50% {
+        top: 50%;
+        left: 50%;
+    }
+
+    62.5% {
+        top: 50%;
+        left: 0;
+    }
+
+    75% {
+        top: 50%;
+        left: 0;
+    }
+
+    82.5% {
+        top: 0;
+        left: 0;
+    }
+
+    100% {
+        top: 0;
+        left: 0;
+    }
+}
