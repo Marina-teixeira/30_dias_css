@@ -183,3 +183,17 @@
 
 + Animations
 + Nth-child ()
+
+## Dia 15 - Efeito de preenchimento com hover
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_15.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Before
++ Hover
++ Overflow hidden
++ Transotions
++ Webkit text stroke
