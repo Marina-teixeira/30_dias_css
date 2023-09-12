@@ -208,3 +208,14 @@
 
 + Animations
 + Nth-child ()
+
+## Dia 17 - Esferas quicando
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_17.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Nth-child ()
++ Animations
