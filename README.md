@@ -197,3 +197,14 @@
 + Overflow hidden
 + Transotions
 + Webkit text stroke
+
+## Dia 16 - Loading com efeito
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_16.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animations
++ Nth-child ()
