@@ -219,3 +219,17 @@
 
 + Nth-child ()
 + Animations
+
+## Dia 18 - Galeria com hover
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_18.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Filter
++ Hover
++ Object-fit
++ Overflow hidden
++ Transition
