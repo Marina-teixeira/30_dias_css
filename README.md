@@ -233,3 +233,15 @@
 + Object-fit
 + Overflow hidden
 + Transition
+
+## Dia 19 - Apple watch breath
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_19.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animation
++ Nth-child
++ Trannsform translate
