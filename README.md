@@ -256,3 +256,14 @@
 
 + Animation
 + Transform rotate
+
+## Dia 21 - Animação de texto alternando
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_21.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Before
++ Animations
