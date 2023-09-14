@@ -1,0 +1,64 @@
+:root {
+    --cor01: #f7fbfc;
+    --cor02: #d6e6f2;
+    --cor03: #b9d7ea;
+    --cor04: #769fcd;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor01);
+}
+
+main {
+    font-size: 18px;
+    margin: 30px;
+}
+
+main h2 {
+    background-image: linear-gradient(to right, var(--cor02), var(--cor01));
+    margin-bottom: 100px;
+    text-shadow: 2px 2px 2px var(--cor03);
+}
+
+footer {
+    background-color: var(--cor04);
+    bottom: 0;
+    color: var(--cor02);
+    font-size: 18px;
+    height: 8vh;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span::before {
+    content: '';
+    animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith {
+    0% {
+        content: '💻';
+    }
+
+    50% {
+        content: '🍕';
+    }
+
+    100% {
+        content: '🎮';
+    }
+}
