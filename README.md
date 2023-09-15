@@ -282,3 +282,17 @@
 + Rotate
 + Translate
 + Z-index
+
+## Dia 23 - Pontos animados
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_23.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animation
++ Moz-animation
++ Nth-child
++ Transform-translate
++ Webkit-animation
