@@ -267,3 +267,18 @@
 
 + Before
 + Animations
+
+## Dia 22 - Foguete decolando
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_22.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animation
++ Bootstrap icon
++ Overflow hidden
++ Rotate
++ Translate
++ Z-index
