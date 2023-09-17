@@ -310,3 +310,16 @@
 + Overflow hidden
 + Position relative e absolute
 + Transform translate/rotate
+
+## Dia 25 - Slider de imagens
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_25.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ :Hover, has, nth-child e checked
++ Input radio e label
++ Overflow hidden
++ Position relative e absolut
