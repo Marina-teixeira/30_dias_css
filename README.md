@@ -296,3 +296,17 @@
 + Nth-child
 + Transform-translate
 + Webkit-animation
+
+
+## Dia 24 - Onda
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_24.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Animation
++ Overflow hidden
++ Position relative e absolute
++ Transform translate/rotate
