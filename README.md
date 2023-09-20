@@ -323,3 +323,16 @@
 + Input radio e label
 + Overflow hidden
 + Position relative e absolut
+
+## Dia 26 - Card com efeito de livro
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_26.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Hover
++ Perspective
++ Transform rotateY
++ Transform origin
