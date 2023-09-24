@@ -352,3 +352,15 @@
 + Position absolute e relative
 + Transform rotateZ
 + Transition
+
+## Dia 28 - Card hover
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_28.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Hover
++ Object-fit
++ Transition
