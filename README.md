@@ -336,3 +336,19 @@
 + Perspective
 + Transform rotateY
 + Transform origin
+
+
+## Dia 27 - Ícone com efeito no hover
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia 27.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Backgroung-clip
++ Hover
++ Overflow hidden
++ Position absolute e relative
++ Transform rotateZ
++ Transition
