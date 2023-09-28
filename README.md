@@ -364,3 +364,19 @@
 + Hover
 + Object-fit
 + Transition
+
+## Dia 29 - Imagens com efeito no hover
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_29.gif">
+</p>
+
+### O que aprendi e utilizei
++ Background-position
++ Hover
++ Filter
++ Nth-of-type
++ Perspective
++ Transform rotateX, translateZ
++ Transition
++ z-index
