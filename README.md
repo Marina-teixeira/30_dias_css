@@ -380,3 +380,18 @@
 + Transform rotateX, translateZ
 + Transition
 + z-index
+
+## Dia 30 - Card expansível
+
+<p align="center">
+  <img width="300" heiht="300" src="./Imagens/Dia_30.gif">
+</p>
+
+### O que aprendi e utilizei
+
++ Hover
++ Overflow hidden
++ Position absolute e relative
++Text overflow
++ Transform translateY
++ Transition
